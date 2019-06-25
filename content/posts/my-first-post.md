@@ -1,7 +1,6 @@
 ---
 title: "Answer to Q4 of Safety Form"
 date: 2019-06-23T21:19:41+08:00
-draft: true
 featured_image: "/images/Random-bio-img.png"
 ---
 
