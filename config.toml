@@ -1,6 +1,6 @@
 title = "GENAS_China"
 # baseURL = "2019.igem.org/Team:GENAS_China"
-baseURL = ""
+baseURL = "https://genas-china.onrender.com"
 languageCode = "en-us"
 theme = "ananke"
 
