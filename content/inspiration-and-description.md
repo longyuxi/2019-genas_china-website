@@ -1,0 +1,17 @@
+---
+title: "Inspiration and Description"
+date: 2019-06-26T13:14:12+08:00
+draft: true
+menu:
+  main: {}
+featured_image: "images/WeChat Image_20190626131638.jpg"
+---
+
+Cardiovascular diseases, which have become one of the most common disturbance of health worldwide in recent years, are the leading cause of death. Most of the senior citizens suffer from hypertension, atherosclerosis and hyperlipidemia, and even with the advance treatment, more than 50% of the survivors of cerebrovascular accident cannot completely take care of themselves in life. One of the pivotal reasons of the tragedy is the lacking of precaution. The immature and undistributed beforehand-detecting system of cardiovascular diseases keeps people away from regular physical examination. According to the sixth national census in China, among the total population of 1.37 billion, 8,87% of people were aged over 65. China is stepping into an aging society and the health condition of the elders is an increasing challenge for all families. Thus, a convenient yet affordable machine which allows people to detect their cardiovascular factor is vitally required.![Processes Hcy goes through in the body](../images/WeChat Image_20190626131643.jpg "Processes Hcy goes through in the body")
+
+Homocysteine (Hcy), an intermediate product in methionine’s metabolism, has been found to have correlation with the morbidity of most of the cardiovascular diseases. So Hcy is widely used as a risk factor and a reference for cardiovascular disease. In present, enzymatic cycling assay is popularized in most of the hospital as a method of beforehand detection. However, this method has several disadvantages. One is that the assay involves in machines and various reagent for analysis, there’s a high cost on both hospital and assayer. The high requirement for the equipment not only raises the cost but also makes the assay more professional to operate, that is, people must go to the hospitals which have those equipment and professional technique for the assay. However, the geographic distribution for the health resources is not even which indicates that residents in some regions cannot easily access to professional, formal hospitals that provides enzymatic cycling assay.![Diagram of cpSpinach](../images/WeChat Image_20190626131638.jpg "Diagram of cpSpinach")
+
+Consequently, we decide to develop a cheap and easy-operating way for precautionary Hcy detection. We are going to use a combination of cpSpinach2 and SAH riboswitch as a fluorescent probe to sense the presence of Hcy in blood. Hcy will first be transformed into SAH, which will induce a conformational change in the combination, with the change, DFHBI will activate the fluorescence and give a signal. We are also trying to develop a general concentration range detector by creating a genetic circuit using recombinase, GFP, and RFP, so that it can detect whether the concentration of a certain substance is in a prearranged scope or not. Furthermore, this range-detector could be applied in the detection of risk factors of other diseases, likes blood glucose or blood fat.
+
+In a word, we are finding a cheap and convenient way for people to do self-check on the prevalence of cardiovascular disease.
+
