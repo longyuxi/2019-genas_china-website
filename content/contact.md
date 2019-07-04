@@ -7,5 +7,6 @@ type: page
 menu:
   main: {}
 featured_image: "/images/Random-bio-img.png"
+draft: true
 ---
 

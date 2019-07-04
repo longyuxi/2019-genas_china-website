@@ -3,6 +3,7 @@ title: "Lorem Ipsum Static"
 date: 2019-06-24T12:31:41+08:00
 menu:
   main: {}
+draft: true
 ---
 
 # Dabitur madefactam movetur sanctis loquiturque velocius apertis

@@ -1,7 +1,6 @@
 ---
 title: "Inspiration and Description"
 date: 2019-06-26T13:14:12+08:00
-draft: true
 menu:
   main: {}
 featured_image: "images/WeChat Image_20190626131638.jpg"
