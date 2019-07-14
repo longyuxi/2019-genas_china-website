@@ -2,6 +2,7 @@
 title: "Answer to Q4 of Safety Form"
 date: 2019-06-23T21:19:41+08:00
 featured_image: "/images/Random-bio-img.png"
+draft: true
 ---
 
 ## 4. What risks could these organisms pose to you or your colleagues in the laboratory, or to your community or the environment if they escape the lab?
