@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GENAS_China: a portable disease indicator on GENAS_China</title>
+    <link>https://genas-china.onrender.com/en/</link>
+    <description>Recent content in GENAS_China: a portable disease indicator on GENAS_China</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jul 2019 21:26:50 +0800</lastBuildDate>
+    
+	<atom:link href="https://genas-china.onrender.com/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Expected Result</title>
+      <link>https://genas-china.onrender.com/en/expected-result/</link>
+      <pubDate>Sun, 14 Jul 2019 21:26:50 +0800</pubDate>
+      
+      <guid>https://genas-china.onrender.com/en/expected-result/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Significance</title>
+      <link>https://genas-china.onrender.com/en/significance/</link>
+      <pubDate>Sun, 14 Jul 2019 14:36:22 +0800</pubDate>
+      
+      <guid>https://genas-china.onrender.com/en/significance/</guid>
+      <description>This would be a break through in the medical field.
+The sensor would be used for various detection. For example we can use this to benefit the people by using it for disease detection and prevention as would be stated below. Concerning social values: It can be used as a disease detector for, let’s say, the elderly. This can act as a means of caution to prevent certain diseases from dominating the human body too rapidly.</description>
+    </item>
+    
+    <item>
+      <title>Background</title>
+      <link>https://genas-china.onrender.com/en/background/</link>
+      <pubDate>Sun, 14 Jul 2019 14:34:46 +0800</pubDate>
+      
+      <guid>https://genas-china.onrender.com/en/background/</guid>
+      <description>Nowadays, more and more diseases are plaguing people&amp;rsquo;s health. Therefore, people often need to go to the hospital for physical examination to know their health level. However, it is not only time-consuming, laborious and inconvenient to go to the hospital for medical examination, but also more troublesome that people usually cannot understand the meaning of the various indicators on the medical examination report very well. Generally speaking, human diseases can often be observed by the concentration of a substance in the body, with high and low thresholds.</description>
+    </item>
+    
+    <item>
+      <title>Abstract</title>
+      <link>https://genas-china.onrender.com/en/abstract/</link>
+      <pubDate>Sun, 14 Jul 2019 14:33:45 +0800</pubDate>
+      
+      <guid>https://genas-china.onrender.com/en/abstract/</guid>
+      <description>Health monitoring is recently a way the public rely on to detect their health level, which can be a burden to some people and easily cause misunderstanding. Therefore, our project is to build a platform to detect disease indicators, like intestinal inflammation, and then this platform can sense different concentration ranges of the same index, which then be divided into three or four levels. This shows the concentration of the index and thus indicates the health degree.</description>
+    </item>
+    
+    <item>
+      <title>Project description</title>
+      <link>https://genas-china.onrender.com/en/description/</link>
+      <pubDate>Wed, 26 Jun 2019 13:14:12 +0800</pubDate>
+      
+      <guid>https://genas-china.onrender.com/en/description/</guid>
+      <description>Nowadays, more and more diseases threaten people&amp;rsquo;s living condition. As a result, people always find it necessary to go to the hospital for physical examination in order to comprehend their health level. Thus, health monitoring recently becomes a way that the public count on to detect their health level, which can be a burden to some people while it is not only time-consuming, laborious and inconvenient to go to the hospital for physical examination, but also more troublesome that people usually cannot understand the meaning of the various index on the medical examination report very well.</description>
+    </item>
+    
+  </channel>
+</rss>

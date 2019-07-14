@@ -1,50 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://genas-china.onrender.com/</loc>
-    <lastmod>2019-07-14T14:36:22+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://genas-china.onrender.com/significance/</loc>
-    <lastmod>2019-07-14T14:36:22+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://genas-china.onrender.com/background/</loc>
-    <lastmod>2019-07-14T14:34:46+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://genas-china.onrender.com/abstract/</loc>
-    <lastmod>2019-07-14T14:33:45+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://genas-china.onrender.com/inspiration-and-description/</loc>
-    <lastmod>2019-06-26T13:14:12+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://genas-china.onrender.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://genas-china.onrender.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://genas-china.onrender.com/cn/sitemap.xml</loc>
+		
+	   	<lastmod>2019-07-14T21:26:50+08:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://genas-china.onrender.com/en/sitemap.xml</loc>
+		
+	   	<lastmod>2019-07-14T21:26:50+08:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

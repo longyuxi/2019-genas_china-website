@@ -1,51 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GENAS_China: a portable disease indicator on GENAS_China</title>
+    <title>GENAS_China: 一个便携式健康检测器 on GENAS_China</title>
     <link>https://genas-china.onrender.com/</link>
-    <description>Recent content in GENAS_China: a portable disease indicator on GENAS_China</description>
+    <description>Recent content in GENAS_China: 一个便携式健康检测器 on GENAS_China</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jul 2019 14:36:22 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2019 21:26:50 +0800</lastBuildDate>
     
 	<atom:link href="https://genas-china.onrender.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Significance</title>
+      <title>预期结果</title>
+      <link>https://genas-china.onrender.com/expected-result/</link>
+      <pubDate>Sun, 14 Jul 2019 21:26:50 +0800</pubDate>
+      
+      <guid>https://genas-china.onrender.com/expected-result/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>设计意义</title>
       <link>https://genas-china.onrender.com/significance/</link>
       <pubDate>Sun, 14 Jul 2019 14:36:22 +0800</pubDate>
       
       <guid>https://genas-china.onrender.com/significance/</guid>
-      <description>This would be a break through in the medical field.
-The sensor would be used for various detection. For example we can use this to benefit the people by using it for disease detection and prevention as would be stated below. Concerning social values: It can be used as a disease detector for, let’s say, the elderly. This can act as a means of caution to prevent certain diseases from dominating the human body too rapidly.</description>
+      <description>这将是医学领域的一个突破。该传感器可用于各种检测。 例如，我们可以利用它来造福人民，利用它来进行疾病检测和预防，如下所述。 关于社会价值: 比如说，它可以作为老年人的疾病探测器。这可以作为一种谨慎的手段，防止某些疾病过快地控制人体。 这将是一个很大的帮助，特别是对那些老年人谁往往独自生活。他们中的许多人成为疾病的受害者，这些疾病在最初阶段是可编辑的，但随着时间的推移会恶化。 有了我们的想法和专家的帮助，我们的项目将能够造福我们的社会。 我们可以把我们的产品送到医院或制药公司，这样人们就可以使用它。 医院将能够更容易地发现疾病，不仅影响老年人，而且影响整个社会，甚至可能挽救一些生命。 制药公司可以将我们项目的想法用于研究目的。我们可以进行实验，并创造新的医学形式。 因此，我们的项目不仅包含科学价值，还包含社会价值。</description>
     </item>
     
     <item>
-      <title>Background</title>
+      <title>背景</title>
       <link>https://genas-china.onrender.com/background/</link>
       <pubDate>Sun, 14 Jul 2019 14:34:46 +0800</pubDate>
       
       <guid>https://genas-china.onrender.com/background/</guid>
-      <description>Nowadays, more and more diseases are plaguing people&amp;rsquo;s health. Therefore, people often need to go to the hospital for physical examination to know their health level. However, it is not only time-consuming, laborious and inconvenient to go to the hospital for medical examination, but also more troublesome that people usually cannot understand the meaning of the various indicators on the medical examination report very well. Generally speaking, human diseases can often be observed by the concentration of a substance in the body, with high and low thresholds.</description>
+      <description>现在，越来越多的疾病困扰着人们的健康，因此，人们常常需要去医院进行体检以了解自己的健康程度。然而，去医院进行体检不仅费时费力，十分不方便，而且更麻烦的是，人们通常不能够很好的明白体检单上各项指标数值的含义。通常来讲，人体的疾病常常可以由某一种物质在人体中的浓度来观测，且有高低阈值。为此，我们设计了一种通用的平台，以供人们进行指标的检测。而我们的产品相对于医院的体检，使用起来更加方便，简单。有了我们的产品，在家中即可进行测量。且我们以简单明了的颜色作为浓度区间的表现形式，避免了测试者因不明白数字的意义而产生的困扰。</description>
     </item>
     
     <item>
-      <title>Abstract</title>
+      <title>概要</title>
       <link>https://genas-china.onrender.com/abstract/</link>
       <pubDate>Sun, 14 Jul 2019 14:33:45 +0800</pubDate>
       
       <guid>https://genas-china.onrender.com/abstract/</guid>
-      <description>Health monitoring is recently a way the public rely on to detect their health level, which can be a burden to some people and easily cause misunderstanding. Therefore, our project is to build a platform to detect disease indicators, like intestinal inflammation, and then this platform can sense different concentration ranges of the same index, which then be divided into three or four levels. This shows the concentration of the index and thus indicates the health degree.</description>
+      <description>健康监测是近年来公众检测自身健康水平的一种手段，但对一些人来说是一种负担，且容易常常引起人们的误解。因此，我们的项目是建立一个便于人们使用的检测疾病指标的平台，比如肠道炎症，然后这个平台可以检测到某一指标的不同浓度范围，然后将其分为三到四个级别。这显示了指数的浓度，从而表示健康程度。我们采取了不同的荧光蛋白对结果进行了表征，使结果更易于观察和理解。我们希望我们制作的模型有一天能帮助那些想要检测健康指标的人更容易地了解自身的健康程度。更希望该模型能够为未来的医学检测提供生物检测的理念，为整个社会做出贡献。</description>
     </item>
     
     <item>
-      <title>Project description</title>
-      <link>https://genas-china.onrender.com/inspiration-and-description/</link>
+      <title>项目内容</title>
+      <link>https://genas-china.onrender.com/description/</link>
       <pubDate>Wed, 26 Jun 2019 13:14:12 +0800</pubDate>
       
-      <guid>https://genas-china.onrender.com/inspiration-and-description/</guid>
-      <description>Nowadays, more and more diseases threaten people&amp;rsquo;s living condition. As a result, people always find it necessary to go to the hospital for physical examination in order to comprehend their health level. Thus, health monitoring recently becomes a way that the public count on to detect their health level, which can be a burden to some people while it is not only time-consuming, laborious and inconvenient to go to the hospital for physical examination, but also more troublesome that people usually cannot understand the meaning of the various index on the medical examination report very well.</description>
+      <guid>https://genas-china.onrender.com/description/</guid>
+      <description>现如今，越来越多的疾病威胁着人们的生活状况。因此，人们总是觉得有必要去医院体检来了解他们的健康水平。最近一段时间内健康监测成为一种公众依靠以检测他们的健康水平的绝妙方法,对一部分人来说这可能是一种负担,因为去医院体检不仅仅费时,费力和费财,还比较麻烦。而且人们通常不能理解在体检报告单上的各种指数的含义。一般来说，人的疾病往往可以通过体内某一指标的浓度的高低来观察。因此，我们项目的实质是建立一个通用的检测肠道炎症、血糖、血脂等疾病指标的平台。传统的检测方法通常是对单个指标使用一个值。而我们的平台可以感知同一指标的不同浓度范围，然后将其划分为不同的层次。这显示了该指数的浓度处于哪个级别，从而反映健康程度。用不同的荧光蛋白对产物进行表征，不同的荧光蛋白在不同的阶段会发出不同的颜色。例如，如果指标的浓度在强度的第一层，那么我们的设备将显示一种颜色。如果浓度足够高，达到第二级，我们的系统将反转第一级蛋白，使其失活，并激活第二个蛋白，第二个蛋白的颜色将与第一级蛋白不同。这样，我们就创建了一个范围探测器，其输出的信号很容易被肉眼看到并被大家理解。我们也希望我们制作的模型能有一天帮助那些想要检测自身健康隐患的人们。与医院检查相比，我们的产品使用起来更方便和简单。我们的产品可以在家里测量与使用。此外，我们使用简单明了的颜色来表示指标的浓度范围，避免了由于误解医学检查报告统计数据的含义而造成的麻烦。
+最后，我们希望为整个体检系统创造一种新的检测方法，希望通过我们的平台真正帮助他人，创造一条通向美好未来的道路。</description>
     </item>
     
   </channel>
