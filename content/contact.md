@@ -6,7 +6,7 @@ description: We'd love to hear from you
 type: page
 menu:
   main: {}
-featured_image: "/images/Random-bio-img.png"
+featured_image: "/images/genas_temp_logo.jpg"
 draft: true
 ---
 

@@ -3,7 +3,7 @@ title: "Significance"
 date: 2019-07-14T14:36:22+08:00
 menu:
   main: {}
-featured_image: "/images/Random-bio-img.png"
+featured_image: "/images/genas_temp_logo.jpg"
 ---
 
 This would be a break through in the medical field.                                                                                                                                 
