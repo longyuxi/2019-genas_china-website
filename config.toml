@@ -5,12 +5,16 @@ languageCode = "en-us"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "cn"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 buildDrafts = false
+
+[languages]
+  [languages.en]
+  [languages.cn]
 
 [sitemap]
   changefreq = "monthly"
