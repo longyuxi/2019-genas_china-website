@@ -1,6 +1,7 @@
 ---
 title: "Project description"
 date: 2019-06-26T13:14:12+08:00
+featured_image: "/images/genas_temp_logo.jpg"
 menu:
   main: {}
 ---
