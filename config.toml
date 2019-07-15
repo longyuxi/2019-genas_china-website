@@ -12,9 +12,11 @@ googleAnalytics = ""
 enableRobotsTXT = true
 buildDrafts = false
 
-[languages]
-  [languages.en]
-  [languages.cn]
+
+[languages.en]
+  languageName = "English"
+[languages.cn]
+  languageName = "Chinese"
 
 [sitemap]
   changefreq = "monthly"
@@ -37,3 +39,5 @@ buildDrafts = false
   background_color_class = "bg-blue"
   featured_image = "/images/genas_temp_logo.jpg"
   recent_posts_number = 2
+  [params.navigation]
+    help = "Help"
